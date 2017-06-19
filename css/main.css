@@ -21,7 +21,7 @@ a {
   height: 100px;
 }
 h1, p{
-  color: DeepPink ;
+  color: DeepPink;
 }
 h1{
   font-size: 50px;
@@ -55,6 +55,19 @@ textarea, input{
 }
 footer{
   padding: 10px;
+}
+#boton{
+  margin-left: 26%;
+  border: 1px solid blue;
+  background: transparent;
+  color: black;
+}
+
+#boton2{
+    border: 1px solid blue;
+    background: transparent;
+    color: black;
+    margin-left: 10px;
 }
 
 
